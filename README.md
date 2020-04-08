@@ -1,6 +1,6 @@
-# disenos
+# APP DISEÑOS
 
-A new Flutter project.
+Proyecto de Flutter 
 
 ## Getting Started
 
