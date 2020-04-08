@@ -28,7 +28,7 @@ class ScrollPage extends StatelessWidget {
             child: Padding(
                 padding: EdgeInsets.symmetric(horizontal: 40.0, vertical: 20.0),
                 child: Text(
-                  "Bienvenido",
+                  "Bienvenidoss",
                   style: TextStyle(fontSize: 20.0),
                 )),
             onPressed: () {},
